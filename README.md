@@ -77,7 +77,7 @@ Your configuration will persist between sessions.
 
 ## 🧠 Troubleshooting
 
-* If your command contains spaces (e.g. `C:\Program Files\App\app.exe`), the app will automatically wrap it in quotes and execute via `cmd.exe /c` to ensure compatibility with `schtasks`.
+* If your command contains spaces (e.g. `C:\Program Files\App\app.exe`), put your command and arguments in .bat file to ensure compatibility with `schtasks`.
 * Make sure to run the app with sufficient privileges if scheduling system-level tasks.
 
 ## 🪪 License
