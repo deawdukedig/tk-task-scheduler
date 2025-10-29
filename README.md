@@ -12,7 +12,6 @@ A lightweight **Tkinter-based GUI** for managing Windows scheduled tasks using t
 * Multi-column job list: **Job Name**, **Time**, **Command**.
 * Test Run button — execute a job immediately.
 * Saves job data in `%APPDATA%/TkTaskScheduler/db.json`.
-* Option to run on Windows startup and minimize to system tray.
 
 ## 🧩 Requirements
 
